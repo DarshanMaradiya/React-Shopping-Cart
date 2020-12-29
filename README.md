@@ -1,6 +1,6 @@
 # React-Shopping-Cart
 First small react app!<br>
-Basic implementation of one small functionality of E-commerce sites: Shopping-cart<br>
+Basic implementation of one small functionality of E-commerce sites: <a href="https://darshanmaradiya.github.io/React-Shopping-Cart/">Shopping-cart</a><br>
 Using React.<br>
 
 # About Functionality
